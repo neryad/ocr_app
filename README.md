@@ -1,16 +1,19 @@
-# ocr_app
 
-A new Flutter project.
+# OCR App
+The OCR app recognizes text from camera images. It is built using Flutter and leverages machine learning models for text recognition.
 
 ## Getting Started
+To use the OCR app, follow these steps:
 
-This project is a starting point for a Flutter application.
+Install the app on your device by downloading it from the App Store or Google Play.
+Launch the app and grant camera permissions.
+Point the camera at the text you want to recognize.
+Wait for the app to recognize the text and display it on the screen.
+Demo
+## OCR app demo
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Resources
+Original tutorial: [ Text recognition in Flutter ] (https://davidserrano.io/text-recognition-in-flutter-create-ocr-scanner-app)
+Google's ML Kit: Text Recognition
+Contributing
+If you would like to contribute to the OCR app, please submit a pull request. We welcome all contributions!
